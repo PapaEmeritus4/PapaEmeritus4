@@ -17,7 +17,7 @@ Java Developer with experience in development microservices, code review, writin
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: vovakaiman2005@gmail.com
+   📫 How to reach me: <a href='mailto:vovakaiman2005@gmail.com'>vovakaiman2005@gmail.com</a>
 </p>
 
 Languages & Technologies:
