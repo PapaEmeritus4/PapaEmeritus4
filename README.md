@@ -1,6 +1,6 @@
 👋 Hi, I’m Vladymyr Bilan
 
-Java Developer with experience in the development of REST API services, code review, writing unit/integration tests, working with RDBMS, deployment, and writing documentation.
+Java Developer with experience in development microservices, code review, writing unit/integration tests, working with RDBMS, deployment, and writing documentation.
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=PapaEmeritus4&show_icons=true&count_private=true"><img
            height=150
