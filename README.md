@@ -18,7 +18,7 @@
 <p align='center'>
    📫 How to reach me: <a href='mailto:vovakaiman2005@gmail.com'>vovakaiman2005@gmail.com</a>
 </p>
-### Languages & Technologies:
+      Languages & Technologies:
 - Languages: Java, SQL (Postgres, MySQL), HTML, CSS.
 - Frameworks: Spring, Hibernate, TestNG, JUnit4/5, Selenium/Selenide, Mockito, Cucumber, Testcontainers.
 - Tools: Git, Maven, Gradle, Docker, Liquibase, Apache Tomcat, Swagger, Postman, Apache Kafka,
