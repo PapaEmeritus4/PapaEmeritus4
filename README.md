@@ -1,6 +1,5 @@
-👋 Hi, I’m Vladymyr Bilan
-
-Java Developer/QA with experience in development microservices, code review, writing unit/integration tests, working with RDBMS, deployment, and writing documentation.
+# 👋 Hi, I’m Volodymyr Bilan
+## Java Developer/AQA
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=PapaEmeritus4&show_icons=true&count_private=true"><img
            height=150
@@ -19,11 +18,10 @@ Java Developer/QA with experience in development microservices, code review, wri
 <p align='center'>
    📫 How to reach me: <a href='mailto:vovakaiman2005@gmail.com'>vovakaiman2005@gmail.com</a>
 </p>
-
-Languages & Technologies:
-- Java(8, 11, 17, 21)
-- Spring, Spring Boot, Apache Kafka, RabbitMQ, Spring Security, JWT, Docker, Swagger
-- Hibernate, Spring Data JPA, JDBC, JdbcTemplate, Liquibase
-- MySQL, PostgreSQL
-- JUnit, Mockito, Testcontainers
-- Maven, Gradle, Apache Tomcat, Lombok, log4j, slf4f, Thymeleaf, JSON, Git, GitHub.
+### Languages & Technologies:
+- Languages: Java, SQL (Postgres, MySQL), HTML, CSS.
+- Frameworks: Spring, Hibernate, TestNG, JUnit4/5, Selenium/Selenide, Mockito, Cucumber, Testcontainers.
+- Tools: Git, Maven, Gradle, Docker, Liquibase, Apache Tomcat, Swagger, Postman, Apache Kafka,
+RabbitMQ, Prometheus, Kibana, REST Assured, Allure Report, Chrome DevTools, Aqua, IntelliJ IDEA
+- CI/CD: Jenkins, GitLab.
+- Performance Testing: JMeter.
