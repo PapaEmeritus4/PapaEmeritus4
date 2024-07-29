@@ -9,9 +9,6 @@ RabbitMQ, Prometheus, Kibana, REST Assured, Allure Report, Chrome DevTools, Aqua
 - Performance Testing: JMeter.
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=PapaEmeritus4&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=PapaEmeritus4&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/PapaEmeritus4/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=PapaEmeritus4&layout=compact"/></a>
 </p>
