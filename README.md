@@ -1,12 +1,5 @@
 # 👋 Hi, I’m Volodymyr Bilan
 ## Software/QA/AQA Engineer
-### Languages & Technologies:
-- Languages: Java, SQL (Postgres, MySQL), HTML, CSS, JavaScript.
-- Frameworks: Spring, Hibernate, TestNG, JUnit4/5, Selenium/Selenide, Mockito, Cucumber, Testcontainers.
-- Tools: Git, Maven, Gradle, Docker, Liquibase, Apache Tomcat, Swagger, Postman, Apache Kafka,
-RabbitMQ, Prometheus, Kibana, REST Assured, Allure Report, Chrome DevTools, Aqua, IntelliJ IDEA
-- CI/CD: Jenkins, GitLab.
-- Performance Testing: JMeter.
 
 <p align='center'>
    <a href="https://github.com/PapaEmeritus4/github-readme-stats"><img height=150
