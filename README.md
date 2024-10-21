@@ -1,5 +1,3 @@
-# 👋 Hi, I’m Volodymyr Bilan
-## Software/QA/AQA Engineer
 
 <p align='center'>
    <a href="https://github.com/PapaEmeritus4/github-readme-stats"><img height=150
